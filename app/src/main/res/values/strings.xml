@@ -1,0 +1,22 @@
+<resources>
+    <string name="serverText">Сервер</string>
+    <string name="serverPlaceText">imap.mail.ru</string>
+    <string name="portText">Порт</string>
+    <string name="portPlaceText">993</string>
+    <string name="mailText">Почта</string>
+<!-- mishak2005med@mail.ru -->
+<!-- eDr1jgjuQDtMaHGek7Ek -->
+    <string name="passwordText">Пароль</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sendTextBtn">Войти</string>
+    <string name="app_name">MailApp</string>
+    <string name="attach_text_of">Нет вложений</string>
+</resources>
