@@ -43,7 +43,7 @@ public class MyMessageView {
     }
 
     public void addContent(String c) {
-        content.append(c).append("<br>").append("\n");
+        content.append(c.replace("\n", "<br>\n")).append("<br>").append("\n");
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
